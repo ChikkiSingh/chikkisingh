@@ -1,3 +1,4 @@
+[chikki github.pptx](https://github.com/ChikkiSingh/chikkisingh/files/9893569/chikki.github.pptx)
  <h1 align="center">Hi 👋, I'm chikki singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
