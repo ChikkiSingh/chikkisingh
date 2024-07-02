@@ -20,3 +20,36 @@
 
 <p>&nbsp;<img align="cen[chikki github.pptx](https://github.com/ChikkiSingh/chikkisingh/files/9893547/chikki.github.pptx)
 ter" src="https://github-readme-stats.vercel.app/api?username=chikkisingh&show_icons=true&locale=en" alt="chikkisingh" /></p>
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+    <img height="30" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  </a>
+  <a href="https://medium.com/@your-medium-profile">
+    <img height="30" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  </a>
+  <!-- Add more social links here -->
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif"/>
+</p>
+### Hi there 👋
+
+* I'm [Your Name], a [Your Profession] with a passion for [Your Interest].
+* I'm currently working on [Your Current Project].
+* I'm currently learning [New Skill You're Learning].
+* I'm looking to collaborate on [Project You're Interested In].
+* I'm looking for help with [Area You Need Help With].
+* Ask me about [Something You're Knowledgeable About].
+* How to reach me: [Your Email or Contact Info].
+* Fun fact: [Something Interesting About Yourself].
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark"/>
+</p>
